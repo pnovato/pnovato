@@ -6,7 +6,7 @@ Sou um estudante de engenharia informática e apaixonado por tecnologia! 🚀
 - ⚡ Facto curioso: Coleciono meias coloridas!
 
 ### 🌐 Conecta-te comigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/patrick-novato-da-silva-86830615b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-novato-da-silva-86830615b/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ptrcknovato@gmail.com)
 
 ### 🚀 Tecnologias e Ferramentas:
