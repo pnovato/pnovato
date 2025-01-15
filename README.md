@@ -1,4 +1,4 @@
-# pnovato-
+# pnovato
 # Olá, eu sou [Patrick]! 👋
 Sou um estudante de engenharia informática e apaixonado por tecnologia! 🚀
 
