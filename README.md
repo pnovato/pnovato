@@ -6,8 +6,7 @@ I am a computer engineering student and passionate about technology! 🚀
 - ⚡ Fun fact: I collect colorful socks!  
 
 ### 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-novato-da-silva-86830615b/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ptrcknovato@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-novato-da-silva-86830615b/)  [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ptrcknovato@gmail.com)  
 
 ### 🚀 Technologies and Tools:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
