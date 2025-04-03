@@ -2,8 +2,7 @@
 # Hello, I am [Patrick]!
 I am a computer engineering student and passionate about technology!  
 
-- Currently learning **Laravel**, **Computer Networks**, and developing a project called **push_swap**.  
-- Fun fact: I collect colorful socks!  
+- Currently learning **Distribuilted Systems**, **Computer Networks**, and developing a project called **d_drive**.    
 
 ### Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-novato-da-silva-86830615b/)  [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ptrcknovato@gmail.com)  
